@@ -1,0 +1,9 @@
+# vscode
+/.vscode/
+
+# yarn
+/.yarn/
+
+# next.js
+/.next/
+/out/
